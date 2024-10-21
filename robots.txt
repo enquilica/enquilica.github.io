@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://enquilica.github.io/enquilica.txt.gz
+Sitemap: https://enquilica.github.io/app/enquilica.txt.gz
+Sitemap: https://enquilica.github.io/assets/enquilica.txt.gz
+Sitemap: https://enquilica.github.io/css/enquilica.txt.gz
+Sitemap: https://enquilica.github.io/includes/enquilica.txt.gz
+Sitemap: https://enquilica.github.io/item/enquilica.txt.gz
+Sitemap: https://enquilica.github.io/src/enquilica.txt.gz
